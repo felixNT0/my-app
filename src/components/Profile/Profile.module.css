@@ -1,0 +1,14 @@
+.root {
+  width: 630px;
+  height: 250px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-image: url("felix.jpg");
+  background-repeat: no-repeat;
+}
+
+.btn {
+  position: relative;
+  top: 200px;
+  margin-left: 500px;
+}

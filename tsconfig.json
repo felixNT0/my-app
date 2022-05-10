@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "src/components/TodoPost/TodoPost.tsx", "src/components/Comment/AddComment.tsx", "src/components/Comment/CommentList.tsx"  ]
 }

@@ -1,0 +1,12 @@
+.list {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+/* .icon {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+} */

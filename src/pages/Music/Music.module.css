@@ -1,0 +1,18 @@
+.root {
+  /* background-color: #0000ff; */
+  width: 100%;
+}
+
+.list {
+  display: flex;
+  /* align-items: center; */
+  /* gap: 15px; */
+  /* flex-direction: row; */
+  /* flex-wrap: wrap; */
+  /* justify-content: center;  */
+}
+
+/* .root:hover {
+  box-shadow: 0 70px 63px -60px #000000;
+  cursor: pointer;
+} */
